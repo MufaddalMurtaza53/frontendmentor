@@ -17,10 +17,7 @@ body.p {
     border-radius: 20px;
     padding: 20px;
     width: 40vh;
-    margin: auto;
-    margin-top: 80px;
-    margin-bottom: 80px;
-    height: auto;
+    margin: 5.3125rem auto;
 }
 .card-body {
     padding: 2px 16px;
